@@ -3,7 +3,7 @@ package SEE;
 import CIE.Student;
 import java.util.*;
 
-public class Externals extends Student {
+public class externals extends Student {
 
     public int[] seeMarks = new int[5];
 
